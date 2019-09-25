@@ -1,0 +1,28 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "project1 di praxis academy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev" : "nodemon index.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jokodoepat/praxis-academy.git"
+  },
+  "author": "Joko Kun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jokodoepat/praxis-academy/issues"
+  },
+  "homepage": "https://github.com/jokodoepat/praxis-academy#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  }
+}

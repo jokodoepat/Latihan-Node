@@ -1,0 +1,23 @@
+Perintah Git :
+
+git init 
+git add . 
+git commit -m "first commit" 
+git remote add origin https://github.com/aisy/js-belajar-react.git 
+git push -u origin master
+
+git branch
+git branch day1
+git checkout day1
+git merge day1
+
+touch .gitignore
+
+Membuat NPM Baru :
+
+npm init
+npm i express
+npm i nodemon
+npm run start
+
+http://127.0.0.1:3300/
